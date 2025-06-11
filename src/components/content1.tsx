@@ -1,4 +1,4 @@
-"use client";
+/*"use client";
 
 import {
   AlignLeft,
@@ -282,4 +282,4 @@ const Content1 = () => {
   );
 };
 
-export { Content1 };
+export { Content1 };*/
